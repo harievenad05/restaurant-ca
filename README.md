@@ -18,17 +18,24 @@ Simple REST Api Backend with Node, Express and Mysql.
 
 ## Setup
 download or clone the repo
-    -run
-        npm install
-    -db import
-        import the db file from the database folder
-    -setup env
-        rename .env.example to .env
-        Replace your DB and Port details
-        Save your file
-    -start
-        npm start
-
+--run
+```bash
+$ npm install
+```
+-import database
+```bash
+ import the db file from the database folder
+```
+-setup env
+```bash
+    rename .env.example to .env
+    Replace your DB and Port details
+    Save your file
+```
+-start
+```bash
+ $   npm start
+```
 ## Features
 List of features ready and TODOs for future development
 * Encryption
